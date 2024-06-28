@@ -37,7 +37,7 @@ Imoticon Site : https://emojipedia.org/
 <br>
 
 ### Blog
-https://kidcat.tistory.com/
+[kidcat2.github.io](https://kidcat2.github.io/)
 <!--
 ### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidcat2&layout=compact&theme=dark)
